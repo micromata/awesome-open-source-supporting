@@ -1,0 +1,13 @@
+{
+  "name": "awesome-javascript-learning-ressources",
+  "private": true,
+  "scripts": {
+    "test": "awesome-lint",
+    "toc": "doctoc readme.md --github --title \"## Contents\" --maxlevel 2"
+  },
+  "author": "Michael Kühnel",
+  "devDependencies": {
+    "awesome-lint": "^0.2.0",
+    "doctoc": "^1.3.1"
+  }
+}
