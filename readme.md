@@ -2,7 +2,7 @@
 
 > An awesome list about possibilities to support Open Source
 
-You might also like [Awesome Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters).
+Everyone is using Open Source Software these days. It helps all of us to get things done. So you should start thinking about giving something back. Even if it’s only a friendly »Thank you ❤️« tweet.
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
@@ -28,10 +28,10 @@ You might also like [Awesome Open Source Supporters](https://github.com/zachflow
 
 ## Open Source Maintainers
 
-- [Feross Aboukhadijeh](https://www.patreon.com/feross) `patreon` - [:package:](https://www.npmjs.com/~feross) // [:octocat:](https://github.com/feross/)
-- [Mathias Buus](https://www.patreon.com/mafintosh) `patreon` - [:package:](https://www.npmjs.com/~mafintosh) // [:octocat:](https://github.com/mafintosh)
-- [Mikeal Rogers](https://www.patreon.com/mikeal) `patreon` - [:package:](https://www.npmjs.com/~mikeal) // [:octocat:](https://github.com/mikeal)
-- [Sindre Sorhus](https://www.patreon.com/sindresorhus) `patreon` - [:package:](https://www.npmjs.com/~sindresorhus) // [:octocat:](https://github.com/sindresorhus)
+- [Feross Aboukhadijeh](https://www.patreon.com/feross) `patreon` - [:package:](https://www.npmjs.com/~feross) // [:octocat:](https://github.com/feross/) // [:bird:](https://twitter.com/feross)
+- [Mathias Buus](https://www.patreon.com/mafintosh) `patreon` - [:package:](https://www.npmjs.com/~mafintosh) // [:octocat:](https://github.com/mafintosh) // [:bird:](https://twitter.com/mafintosh)
+- [Mikeal Rogers](https://www.patreon.com/mikeal) `patreon` - [:package:](https://www.npmjs.com/~mikeal) // [:octocat:](https://github.com/mikeal) // [:bird:](https://twitter.com/mikeal)
+- [Sindre Sorhus](https://www.patreon.com/sindresorhus) `patreon` - [:package:](https://www.npmjs.com/~sindresorhus) // [:octocat:](https://github.com/sindresorhus) // [:bird:](https://twitter.com/sindresorhus)
 
 ## Tools
 
