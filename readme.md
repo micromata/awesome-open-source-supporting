@@ -36,6 +36,7 @@ Everyone is using Open Source Software these days. It helps all of us to get thi
 ## Tools
 
 - [thanks](https://github.com/feross/thanks) - Get the donation URLs from the maintainers of your projects dependencies.
+- [credits-cli](https://github.com/stefanjudis/credits-cli) - Find out on whose work your project is based on.
 
 ---
 
