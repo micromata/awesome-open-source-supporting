@@ -42,9 +42,9 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 
 | Name  | Donation URL | Packages | Repositories | Contact |
 | ------| ------------ | --------- | --------- | ----- |
-| Feross Aboukhadijeh aka feross  | [Patreon](https://www.patreon.com/feross) | [npm](https://www.npmjs.com/~feross) | [GitHub](https://github.com/feross) | [Twitter](https://twitter.com/feross) |
-| Mathias Buus aka mafintosh  | [Patreon](https://www.patreon.com/mafintosh) | [npm](https://www.npmjs.com/~mafintosh) | [GitHub](https://github.com/mafintosh) | [Twitter](https://twitter.com/mafintosh) |
-| Sindre Sorhus aka sindresorhus | [Patreon](https://www.patreon.com/sindresorhus) | [npm](https://www.npmjs.com/~sindresorhus) | [GitHub](https://github.com/sindresorhus) | [Twitter](https://twitter.com/sindresorhus) |
+| Feross Aboukhadijeh | [Patreon](https://www.patreon.com/feross) | [npm](https://www.npmjs.com/~feross) | [github.com/feross](https://github.com/feross) | [twitter.com/feross](https://twitter.com/feross) |
+| Mathias Buus | [Patreon](https://www.patreon.com/mafintosh) | [npm](https://www.npmjs.com/~mafintosh) | [github.com/mafintosh](https://github.com/mafintosh) | [twitter.com/mafintosh](https://twitter.com/mafintosh) |
+| Sindre Sorhus | [Patreon](https://www.patreon.com/sindresorhus) | [npm](https://www.npmjs.com/~sindresorhus) | [github.com/sindresorhus](https://github.com/sindresorhus) | [twitter.com/sindresorhus](https://twitter.com/sindresorhus) |
 
 ## Contributing to Open Source
 
