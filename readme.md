@@ -41,10 +41,10 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 
 | Name  | Donation URL | :package: | :octocat: | bird: |
 | ------| ------------ | --------- | --------- | ----- |
-| Feross Aboukhadijeh  | https://www.patreon.com/feross | https://www.npmjs.com/~feross | https://github.com/feross | https://twitter.com/feross |
-| Mathias Buus  | https://www.patreon.com/mafintosh | https://www.npmjs.com/~mafintosh | https://github.com/mafintosh | https://twitter.com/mafintosh |
-| Mikeal Rogers  | https://www.patreon.com/mikeal | https://www.npmjs.com/~mikeal | https://github.com/mikeal | https://twitter.com/mikeal |
-| Sindre Sorhus  | https://www.patreon.com/sindresorhus | https://www.npmjs.com/~sindresorhus | https://github.com/sindresorhus | https://twitter.com/sindresorhus |
+| Feross Aboukhadijeh  | [patreon.com/feross](https://www.patreon.com/feross) | [npmjs.com/~feross](https://www.npmjs.com/~feross) | [github.com/feross](https://github.com/feross) | [twitter.com/feross](https://twitter.com/feross) |
+| Mathias Buus  | [patreon.com/mafintosh](https://www.patreon.com/mafintosh) | [npmjs.com/~mafintosh](https://www.npmjs.com/~mafintosh) | [github.com/mafintosh](https://github.com/mafintosh) | [twitter.com/mafintosh](https://twitter.com/mafintosh) |
+| Mikeal Rogers  | [patreon.com/mikeal](https://www.patreon.com/mikeal) | [npmjs.com/~mikeal](https://www.npmjs.com/~mikeal) | [github.com/mikeal](https://github.com/mikeal) | [twitter.com/mikeal](https://twitter.com/mikeal) |
+| Sindre Sorhus  | [patreon.com/sindresorhus](https://www.patreon.com/sindresorhus) | [npmjs.com/~sindresorhus](https://www.npmjs.com/~sindresorhus) | [github.com/sindresorhus](https://github.com/sindresorhus) | [twitter.com/sindresorhus](https://twitter.com/sindresorhus) |
 
 
 ## Tools
