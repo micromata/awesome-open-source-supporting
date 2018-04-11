@@ -2,7 +2,7 @@
 
 > An awesome list about possibilities to support Open Source
 
-Everyone is using Open Source Software these days. It helps all of us to get things done. So you should start thinking about giving something back. Even if it’s only a friendly »Thank you ❤️« tweet.
+Everyone is using Open Source Software these days. It helps all of us to get things done. So you should start thinking about giving something back. Even if it’s only a friendly »Thank you ❤️« tweet or a quick pull request to fix a typo in the docs of your favorite project.
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
@@ -13,6 +13,7 @@ Everyone is using Open Source Software these days. It helps all of us to get thi
 - [Foundations](#foundations)
 - [Open Source Projects](#open-source-projects)
 - [Open Source Maintainers](#open-source-maintainers)
+- [Contributing to Open Source](#contributing-to-open-source)
 - [Tools](#tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -46,6 +47,13 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 | Mikeal Rogers aka mikeal | [Patreon](https://www.patreon.com/mikeal) | [npm](https://www.npmjs.com/~mikeal) | [GitHub](https://github.com/mikeal) | [Twitter](https://twitter.com/mikeal) |
 | Sindre Sorhus aka sindresorhus | [Patreon](https://www.patreon.com/sindresorhus) | [npm](https://www.npmjs.com/~sindresorhus) | [GitHub](https://github.com/sindresorhus) | [Twitter](https://twitter.com/sindresorhus) |
 
+## Contributing to Open Source
+
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) -  Guide to making open source contributions, for first-timers and for veterans.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) – 
+List of awesome beginners-friendly projects with especially labelled issues. 
+- [Up for grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
+- [@first_tmrs_only](https://twitter.com/first_tmrs_only) - Twitter bot tweeting links to  Github issues labelled with `first-timers-only`.
 
 ## Tools
 
