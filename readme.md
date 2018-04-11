@@ -44,7 +44,6 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 | ------| ------------ | --------- | --------- | ----- |
 | Feross Aboukhadijeh aka feross  | [Patreon](https://www.patreon.com/feross) | [npm](https://www.npmjs.com/~feross) | [GitHub](https://github.com/feross) | [Twitter](https://twitter.com/feross) |
 | Mathias Buus aka mafintosh  | [Patreon](https://www.patreon.com/mafintosh) | [npm](https://www.npmjs.com/~mafintosh) | [GitHub](https://github.com/mafintosh) | [Twitter](https://twitter.com/mafintosh) |
-| Mikeal Rogers aka mikeal | [Patreon](https://www.patreon.com/mikeal) | [npm](https://www.npmjs.com/~mikeal) | [GitHub](https://github.com/mikeal) | [Twitter](https://twitter.com/mikeal) |
 | Sindre Sorhus aka sindresorhus | [Patreon](https://www.patreon.com/sindresorhus) | [npm](https://www.npmjs.com/~sindresorhus) | [GitHub](https://github.com/sindresorhus) | [Twitter](https://twitter.com/sindresorhus) |
 
 ## Contributing to Open Source
