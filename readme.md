@@ -39,12 +39,12 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 
 ## Open Source Maintainers
 
-| Name  | Donation URL | :package: | :octocat: | :bird: |
+| Name  | Donation URL | Packages | Repositories | Contact |
 | ------| ------------ | --------- | --------- | ----- |
-| Feross Aboukhadijeh  | [patreon.com/feross](https://www.patreon.com/feross) | [npmjs.com/~feross](https://www.npmjs.com/~feross) | [github.com/feross](https://github.com/feross) | [twitter.com/feross](https://twitter.com/feross) |
-| Mathias Buus  | [patreon.com/mafintosh](https://www.patreon.com/mafintosh) | [npmjs.com/~mafintosh](https://www.npmjs.com/~mafintosh) | [github.com/mafintosh](https://github.com/mafintosh) | [twitter.com/mafintosh](https://twitter.com/mafintosh) |
-| Mikeal Rogers  | [patreon.com/mikeal](https://www.patreon.com/mikeal) | [npmjs.com/~mikeal](https://www.npmjs.com/~mikeal) | [github.com/mikeal](https://github.com/mikeal) | [twitter.com/mikeal](https://twitter.com/mikeal) |
-| Sindre Sorhus  | [patreon.com/sindresorhus](https://www.patreon.com/sindresorhus) | [npmjs.com/~sindresorhus](https://www.npmjs.com/~sindresorhus) | [github.com/sindresorhus](https://github.com/sindresorhus) | [twitter.com/sindresorhus](https://twitter.com/sindresorhus) |
+| Feross Aboukhadijeh  | [Patreon](https://www.patreon.com/feross) | [npm](https://www.npmjs.com/~feross) | [GitHub](https://github.com/feross) | [Twitter](https://twitter.com/feross) |
+| Mathias Buus  | [Patreon](https://www.patreon.com/mafintosh) | [npm](https://www.npmjs.com/~mafintosh) | [GitHub](https://github.com/mafintosh) | [Twitter](https://twitter.com/mafintosh) |
+| Mikeal Rogers  | [Patreon](https://www.patreon.com/mikeal) | [npm](https://www.npmjs.com/~mikeal) | [GitHub](https://github.com/mikeal) | [Twitter](https://twitter.com/mikeal) |
+| Sindre Sorhus  | [Patreon](https://www.patreon.com/sindresorhus) | [npm](https://www.npmjs.com/~sindresorhus) | [GitHub](https://github.com/sindresorhus) | [Twitter](https://twitter.com/sindresorhus) |
 
 
 ## Tools
