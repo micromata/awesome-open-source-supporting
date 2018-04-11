@@ -10,6 +10,7 @@ Everyone is using Open Source Software these days. It helps all of us to get thi
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
+- [Foundations](#foundations)
 - [Open Source Projects](#open-source-projects)
 - [Open Source Maintainers](#open-source-maintainers)
 - [Tools](#tools)
@@ -17,6 +18,16 @@ Everyone is using Open Source Software these days. It helps all of us to get thi
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
+
+## Foundations
+
+### JS Foundation
+
+The [JS Foundation](https://js.foundation/) supports some of the most important projects in the JavaScript ecosystem (ESLint, Lodash, Moment, webpack [among others](https://js.foundation/community/projects)). 
+
+The JS Foundation is financed entirely by its members and the donations and contributions from the JavaScript community.
+
+Info about how to donate can be found [over here](https://js.foundation/about/donate).
 
 ## Open Source Projects 
 
