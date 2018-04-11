@@ -53,7 +53,7 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) – 
 List of awesome beginners-friendly projects with especially labelled issues. 
 - [Up for grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
-- [@first_tmrs_only](https://twitter.com/first_tmrs_only) - Twitter bot tweeting links to  Github issues labelled with `first-timers-only`.
+- [First timers only](https://twitter.com/first_tmrs_only) - Twitter bot tweeting links to  Github issues labelled with `first-timers-only`.
 
 ## Tools
 
