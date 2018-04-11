@@ -13,7 +13,9 @@ Ensure your pull request adheres to the following guidelines, if you would like 
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- Link additions should be added in alphabetical order in the relevant section.
+- Link additions should be added to the relevant category
+  - to the bottom of the category in the categories: *Foundations*, *Contributing to Open Source* and *Tools*
+  - in alphabetical order in the categories: *Open Source Projects*, *Open Source Maintainers*
 - New categories or improvements to the existing categorization are welcome.
   - Please run `npm run toc` after making changes to the headings to regenerate the Contents section.
 - Pull requests should have a useful title and include a link you want to add to the list.
