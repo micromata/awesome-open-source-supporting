@@ -39,7 +39,7 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 
 ## Open Source Maintainers
 
-| Name  | Donation URL | :package: | :octocat: | bird: |
+| Name  | Donation URL | :package: | :octocat: | :bird: |
 | ------| ------------ | --------- | --------- | ----- |
 | Feross Aboukhadijeh  | [patreon.com/feross](https://www.patreon.com/feross) | [npmjs.com/~feross](https://www.npmjs.com/~feross) | [github.com/feross](https://github.com/feross) | [twitter.com/feross](https://twitter.com/feross) |
 | Mathias Buus  | [patreon.com/mafintosh](https://www.patreon.com/mafintosh) | [npmjs.com/~mafintosh](https://www.npmjs.com/~mafintosh) | [github.com/mafintosh](https://github.com/mafintosh) | [twitter.com/mafintosh](https://twitter.com/mafintosh) |
