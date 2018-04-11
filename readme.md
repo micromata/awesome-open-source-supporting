@@ -39,10 +39,13 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 
 ## Open Source Maintainers
 
-- [Feross Aboukhadijeh](https://www.patreon.com/feross) `patreon` - [:package:](https://www.npmjs.com/~feross) // [:octocat:](https://github.com/feross/) // [:bird:](https://twitter.com/feross)
-- [Mathias Buus](https://www.patreon.com/mafintosh) `patreon` - [:package:](https://www.npmjs.com/~mafintosh) // [:octocat:](https://github.com/mafintosh) // [:bird:](https://twitter.com/mafintosh)
-- [Mikeal Rogers](https://www.patreon.com/mikeal) `patreon` - [:package:](https://www.npmjs.com/~mikeal) // [:octocat:](https://github.com/mikeal) // [:bird:](https://twitter.com/mikeal)
-- [Sindre Sorhus](https://www.patreon.com/sindresorhus) `patreon` - [:package:](https://www.npmjs.com/~sindresorhus) // [:octocat:](https://github.com/sindresorhus) // [:bird:](https://twitter.com/sindresorhus)
+| Name  | Donation URL | :package: | :octocat: | bird: |
+| ------| ------------ | --------- | --------- | ----- |
+| Feross Aboukhadijeh  | https://www.patreon.com/feross | https://www.npmjs.com/~feross | https://github.com/feross | https://twitter.com/feross |
+| Mathias Buus  | https://www.patreon.com/mafintosh | https://www.npmjs.com/~mafintosh | https://github.com/mafintosh | https://twitter.com/mafintosh |
+| Mikeal Rogers  | https://www.patreon.com/mikeal | https://www.npmjs.com/~mikeal | https://github.com/mikeal | https://twitter.com/mikeal |
+| Sindre Sorhus  | https://www.patreon.com/sindresorhus | https://www.npmjs.com/~sindresorhus | https://github.com/sindresorhus | https://twitter.com/sindresorhus |
+
 
 ## Tools
 
