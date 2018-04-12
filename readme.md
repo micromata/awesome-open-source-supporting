@@ -45,6 +45,7 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 | 📛  | 💰 | 📦 | :octocat: | ✍️ |
 | ------| ------------ | --------- | --------- | ----- |
 | Feross Aboukhadijeh | [Patreon](https://www.patreon.com/feross) | [npmjs.com/~feross](https://www.npmjs.com/~feross) | [github.com/feross](https://github.com/feross) | [twitter.com/feross](https://twitter.com/feross) |
+| Henry Zhu | [Patreon](https://www.patreon.com/henryzhu) | [npmjs.com/~hzoo](https://www.npmjs.com/~hzoo) | [github.com/hzoo](https://github.com/hzoo) | [twitter.com/left_pad](https://twitter.com/left_pad) |
 | Mathias Buus | [Patreon](https://www.patreon.com/mafintosh) | [npmjs.com/~mafintosh](https://www.npmjs.com/~mafintosh) | [github.com/mafintosh](https://github.com/mafintosh) | [twitter.com/mafintosh](https://twitter.com/mafintosh) |
 | Sindre Sorhus | [Patreon](https://www.patreon.com/sindresorhus) | [npmjs.com/~sindresorhus](https://www.npmjs.com/~sindresorhus) | [github.com/sindresorhus](https://github.com/sindresorhus) | [twitter.com/sindresorhus](https://twitter.com/sindresorhus) |
 
