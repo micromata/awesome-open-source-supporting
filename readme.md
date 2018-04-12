@@ -26,21 +26,23 @@ Everyone is using Open Source Software these days. It helps all of us to get thi
 
 The [JS Foundation](https://js.foundation/) supports some of the most important projects in the JavaScript ecosystem (ESLint, Lodash, Moment, webpack [among others](https://js.foundation/community/projects)). 
 
-The JS Foundation is financed entirely by its members and the donations and contributions from the JavaScript community.
+The foundation is financed entirely by its members and the donations and contributions from the JavaScript community.
 
 Info about how to donate can be found [over here](https://js.foundation/about/donate).
 
 ## Open Source Projects 
 
-- [Babel](https://opencollective.com/babel) `open collective` - Compiler for writing next generation JavaScript.
-- [Parcel](https://opencollective.com/parcel) `open collective` - Zero configuration web application bundler.
-- [Vue](https://opencollective.com/vuejs) `open collective` - Progressive framework for building user interfaces.
-- [webpack](https://opencollective.com/webpack) `open collective` - Build solution for modern web applications.
-- [Yeoman](https://opencollective.com/yeoman) `open collective` - Scaffolding tool for modern webapps.
+| 📛 / 🌎 | 💰 | :octocat: | ✍️ |
+| -------------- | ------------ | ------------ | ------- |
+| [Babel](https://babeljs.io/) - Compiler for writing next generation JavaScript.| [Open Collective](https://opencollective.com/babel) | [github.com/babel](https://github.com/babel) | [twitter.com/babeljs](https://twitter.com/babeljs) |
+| [Parcel](https://parceljs.org/) - Zero configuration web application bundler. | [Open Collective](https://opencollective.com/parcel) | [github.com/parcel-bundler](https://github.com/parcel-bundler/parcel) | [twitter.com/parceljs](https://twitter.com/parceljs) |
+| [Vue](https://vuejs.org/) - Progressive framework for building user interfaces. | [Open Collective](https://opencollective.com/vuejs) | [github.com/vuejs](https://github.com/vuejs) | [twitter.com/vuejs](https://twitter.com/vuejs) |
+| [webpack](https://webpack.js.org/) - Build solution for modern web applications. | [Open Collective](https://opencollective.com/webpack) | [github.com/webpack](https://github.com/webpack) | [twitter.com/webpack](https://twitter.com/webpack) |
+| [Yeoman](http://yeoman.io/) - Scaffolding tool for modern webapps. | [Open Collective](https://opencollective.com/yeoman) | [github.com/yeoman](https://github.com/yeoman) | [twitter.com/yeoman](https://twitter.com/yeoman) |
 
 ## Open Source Maintainers
 
-| Name  | Donation URL | Packages | Repositories | Contact |
+| 📛  | 💰 | 📦 | :octocat: | ✍️ |
 | ------| ------------ | --------- | --------- | ----- |
 | Feross Aboukhadijeh | [Patreon](https://www.patreon.com/feross) | [npmjs.com/~feross](https://www.npmjs.com/~feross) | [github.com/feross](https://github.com/feross) | [twitter.com/feross](https://twitter.com/feross) |
 | Mathias Buus | [Patreon](https://www.patreon.com/mafintosh) | [npmjs.com/~mafintosh](https://www.npmjs.com/~mafintosh) | [github.com/mafintosh](https://github.com/mafintosh) | [twitter.com/mafintosh](https://twitter.com/mafintosh) |
