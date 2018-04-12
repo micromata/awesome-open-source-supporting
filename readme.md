@@ -34,11 +34,11 @@ Info about how to donate can be found [over here](https://js.foundation/about/do
 
 | 📛 / 🌎 | 💰 | :octocat: | ✍️ |
 | -------------- | ------------ | ------------ | ------- |
-| [Babel](https://babeljs.io/) - Compiler for writing next generation JavaScript.| [Open Collective](https://opencollective.com/babel) | [github.com/babel](https://github.com/babel) | [twitter.com/babeljs](https://twitter.com/babeljs) |
-| [Parcel](https://parceljs.org/) - Zero configuration web application bundler. | [Open Collective](https://opencollective.com/parcel) | [github.com/parcel-bundler](https://github.com/parcel-bundler/parcel) | [twitter.com/parceljs](https://twitter.com/parceljs) |
-| [Vue](https://vuejs.org/) - Progressive framework for building user interfaces. | [Open Collective](https://opencollective.com/vuejs) | [github.com/vuejs](https://github.com/vuejs) | [twitter.com/vuejs](https://twitter.com/vuejs) |
-| [webpack](https://webpack.js.org/) - Build solution for modern web applications. | [Open Collective](https://opencollective.com/webpack) | [github.com/webpack](https://github.com/webpack) | [twitter.com/webpack](https://twitter.com/webpack) |
-| [Yeoman](http://yeoman.io/) - Scaffolding tool for modern webapps. | [Open Collective](https://opencollective.com/yeoman) | [github.com/yeoman](https://github.com/yeoman) | [twitter.com/yeoman](https://twitter.com/yeoman) |
+| [Babel](https://babeljs.io/) <br> Compiler for writing next generation JavaScript.| [Open Collective](https://opencollective.com/babel) | [github.com/babel](https://github.com/babel) | [twitter.com/babeljs](https://twitter.com/babeljs) |
+| [Parcel](https://parceljs.org/) <br> Zero configuration web application bundler. | [Open Collective](https://opencollective.com/parcel) | [github.com/parcel-bundler](https://github.com/parcel-bundler/parcel) | [twitter.com/parceljs](https://twitter.com/parceljs) |
+| [Vue](https://vuejs.org/) <br> Progressive framework for building user interfaces. | [Open Collective](https://opencollective.com/vuejs) | [github.com/vuejs](https://github.com/vuejs) | [twitter.com/vuejs](https://twitter.com/vuejs) |
+| [webpack](https://webpack.js.org/) <br> Build solution for modern web applications. | [Open Collective](https://opencollective.com/webpack) | [github.com/webpack](https://github.com/webpack) | [twitter.com/webpack](https://twitter.com/webpack) |
+| [Yeoman](http://yeoman.io/) <br> Scaffolding tool for modern webapps. | [Open Collective](https://opencollective.com/yeoman) | [github.com/yeoman](https://github.com/yeoman) | [twitter.com/yeoman](https://twitter.com/yeoman) |
 
 ## Open Source Maintainers
 
